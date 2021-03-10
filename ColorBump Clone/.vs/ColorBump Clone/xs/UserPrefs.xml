@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{44223274-9A16-0769-5088-173C4BA9233C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/playerMove.cs">
+    <Files>
+      <File FileName="Assets/Script/playerMove.cs" Line="80" Column="22" />
+      <File FileName="Assets/Script/cubeScript.cs" />
+      <File FileName="Assets/Script/cameraScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f8860b3-8a59-43b6-856b-d0f4bb8dfe20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

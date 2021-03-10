@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{50F09B44-A13D-B696-1B9A-C2E5C7DEA92E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Spawner.cs">
+    <Files>
+      <File FileName="Assets/Script/pauseCont.cs" Line="55" Column="32" IsPinned="True" />
+      <File FileName="Assets/Script/mouseLook.cs" />
+      <File FileName="Assets/Script/gun.cs" />
+      <File FileName="Assets/Script/flameThrower.cs" />
+      <File FileName="Assets/Script/GlassRail.cs" />
+      <File FileName="Assets/Script/bot_beta.cs" />
+      <File FileName="Assets/Script/playerController.cs" />
+      <File FileName="Assets/Script/Spawner.cs" Line="108" Column="41" />
+      <File FileName="Assets/Script/cubeRotation.cs" />
+      <File FileName="Assets/Script/HealthBar.cs" />
+      <File FileName="Assets/Script/PlayerSpawner.cs" />
+      <File FileName="Assets/Script/CharSelect.cs" />
+      <File FileName="Assets/Script/PlayerSpawner1.cs" />
+      <File FileName="Assets/Script/ExitButton.cs" />
+      <File FileName="Assets/Script/QuitClick.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f8860b3-8a59-43b6-856b-d0f4bb8dfe20" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
